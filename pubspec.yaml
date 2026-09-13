@@ -1,0 +1,12 @@
+name: name100_women
+description: >-
+  Terminal companion for the Name 100 Women recall challenge — offline
+  practice, then play the Wikidata-checked browser game online.
+version: 0.1.0
+homepage: https://nameahundred.com/women/
+
+environment:
+  sdk: ^3.0.0
+
+executables:
+  name100_women:
